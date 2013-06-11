@@ -28,3 +28,7 @@
 body {
 	background-color: #121212;
 }
+
+h1 {
+	opacity: 0.35;
+}
